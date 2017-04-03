@@ -1,7 +1,8 @@
 .location-card {
     display: flex;
     flex-direction: column;
-    width: 75%;
+    flex-wrap: wrap;
+    width: 100%;
     margin: 25px auto;
     padding-bottom:  15px;
     box-shadow: 0px 2px 4px 0px rgba(208,208,208,0.50);
@@ -102,4 +103,3 @@
         margin: auto;
     }
 }
-
